@@ -1,0 +1,22 @@
+DragonRod.prefab
+{
+    "parent" : "engine:iconItem",
+    "Item" : {
+        "icon" : "Equipment:DragonRod"
+    },
+    "DisplayName" : {
+        "name" : "Dragon Rod",
+        "description" : "This is a magnificient flaming rod spawns a giant dragon when hit on the ground."
+    },
+    "EquipmentItem" : {
+        "level" : 4,
+        "quality" : 5,
+        "type" : "Rod",
+        "location" : "Hand",
+        "attack" : 0,
+        "defense" : 0,
+        "weight" : 2,
+        "speed" : 0,
+       //Used by mages and witches. 
+    }
+}
