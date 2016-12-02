@@ -1,4 +1,4 @@
-DragonRod.prefab
+
 {
     "parent" : "engine:iconItem",
     "Item" : {
@@ -11,12 +11,11 @@ DragonRod.prefab
     "EquipmentItem" : {
         "level" : 4,
         "quality" : 5,
-        "type" : "Rod",
-        "location" : "Hand",
+        "type" : "Magic weapon",
+        "location" : "Weapon",
         "attack" : 0,
         "defense" : 0,
         "weight" : 2,
         "speed" : 0,
-       //Used by mages and witches. 
     }
 }
